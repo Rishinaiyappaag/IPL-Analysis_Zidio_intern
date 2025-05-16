@@ -1,4 +1,4 @@
-# IPL-Analysis_Zidio_intern
+# IPL- Prediction_and_Analysis_Zidio_intern
 🏏 IPL Analysis Dashboard & Python Explorations
 This repository features an IPL (Indian Premier League) data analysis project implemented using two powerful tools:
 
