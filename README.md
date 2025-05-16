@@ -13,7 +13,7 @@ IPL ANALYSIS.pbit – Power BI Template with prebuilt dashboards.
 
 Match_&_Team_Performance_Analysis.ipynb – Jupyter Notebook for team-focused statistical analysis.
 
-zidio1.ipynb – Additional Python-based visual analytics (content-specific breakdown recommended in repo).
+zidio1.ipynb – Additional Python-based visual analytics .
 
 matches.csv, deliveries.csv – (Expected to be present in the working directory for Python scripts to function.)
 
